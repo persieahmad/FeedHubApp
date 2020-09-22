@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeedHub</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">eD3W72ZrBqcTb3f0_Y-6WGOUiWFhSuCk5Xbrv</string>
+</resources>
+
+<!-- Production key: eD3W72ZrBqcTb3f0_Y-6WGOUiWFhSuCk5Xbrv -->
+
+<!-- Staging key: 0WBGvXtH6b9cnOzdIuW8tjN-n5yi887oqAUnK -->
