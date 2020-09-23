@@ -14,12 +14,23 @@
     "pushCode": "appcenter codepush release-react -a ahmadsadiq885-gmail.com/FeedHub -d Production -m --description"
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/bottom-tabs": "^5.9.0",
+    "@react-navigation/native": "^5.7.4",
+    "@types/react-native-vector-icons": "^6.4.6",
     "appcenter": "3.1.2",
     "appcenter-analytics": "3.1.2",
     "appcenter-crashes": "3.1.2",
+    "axios": "^0.20.0",
     "react": "16.13.1",
     "react-native": "0.63.2",
-    "react-native-code-push": "^6.3.0"
+    "react-native-code-push": "^6.3.0",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-reanimated": "^1.13.0",
+    "react-native-safe-area-context": "^3.1.8",
+    "react-native-screens": "^2.11.0",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-webview": "^10.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
