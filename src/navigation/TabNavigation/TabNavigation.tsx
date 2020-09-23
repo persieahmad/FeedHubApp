@@ -25,7 +25,7 @@ export default function TabNavigation() {
           },
         }}
         screenOptions={({route}) => ({
-          tabBarIcon: ({focused, color, size}) => {
+          tabBarIcon: ({color, size}) => {
             let iconName: string;
 
             if (route.name === 'Top Headlines') {
